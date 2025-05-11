@@ -2,28 +2,18 @@
   "products": [
     {
       "id": "1",
-      "name": "Camisa",
+      "name": "Camisa Azul",
       "price": 59.9
     },
     {
       "id": "2",
-      "name": "Calça vermelha",
+      "name": "Calça Vermelha",
       "price": 90
     },
     {
       "id": "3",
-      "name": "Boné aba reta",
+      "name": "Boné Aba Reta",
       "price": 29.9
-    },
-    {
-      "id": "4",
-      "name": "monitor",
-      "price": "120"
-    },
-    {
-      "id": "5",
-      "name": "tela",
-      "price": "12"
     }
   ]
 }
